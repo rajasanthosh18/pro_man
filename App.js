@@ -9,7 +9,8 @@ export default function App() {
     </View>
   );
 }
-
+//npm init ?
+//what its purpose -  yarn add body-parser cors express mongoose nodemon jsonwentoken
 const styles = StyleSheet.create({
   container: {
     flex: 1,
